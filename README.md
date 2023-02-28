@@ -8,6 +8,7 @@
 |ChainId|1440001|
 
 |XRPL Resources|Link|
+|---|---|
 |Docs|https://xrpl.org/|
 |Grants|https://xrplgrants.org/|
 
