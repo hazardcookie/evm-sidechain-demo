@@ -1,12 +1,15 @@
 # Eth-Denver
 
-faucet: `https://faucet-frontend-mocha.vercel.app/`
+|EVM Dev|Resource|
+|---|---|
+|Faucet|https://faucet-frontend-mocha.vercel.app/|
+|Explorer|https://evm-sidechain.xrpl.org/|
+|RPC|https://rpc-evm-sidechain.xrpl.org/|
+|ChainId|1440001|
 
-rpc: `https://rpc-evm-sidechain.xrpl.org`
-
-grants: `https://xrplgrants.org/`
-
-xrpl docs: `xrpl.org`
+|XRPL Resources|Link|
+|Docs|https://xrpl.org/|
+|Grants|https://xrplgrants.org/|
 
 ## Deploying the contract and verifying
 Deploy the contract with the following command:
