@@ -26,7 +26,7 @@ forge verify-contract  --chain-id 1440001 --verifier=blockscout \
 --verifier-url=https://evm-sidechain.peersyst.tech/api  <contract>   src/Example.sol:Example
 ```
 
-Local blockchain:
+Local blockchain w/ Anvil:
 ```
 forge script script/Example.s.sol:Example --fork-url http://localhost:8545 \
 --private-key $PRIVATE_KEY --broadcast
