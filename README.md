@@ -1,4 +1,4 @@
-# Eth-Denver
+# XRPL EVM Sidechain Demo
 ## XRPL EVM Devnet Sidechain Quickstart
 
 |EVM Dev|Resource|
