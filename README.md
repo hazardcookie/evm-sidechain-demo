@@ -15,6 +15,8 @@
 |Demo Game|https://hazards-cookies-frontend.vercel.app/|
 
 ## Deploying the contract and verifying
+Note: This example requires [foundry](https://github.com/foundry-rs/foundry) to be installed on your computer.
+
 Deploy the contract with the following command:
 ```
 $ forge create --rpc-url https://rpc-evm-sidechain.xrpl.org \
