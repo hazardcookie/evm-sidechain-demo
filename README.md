@@ -12,6 +12,7 @@
 |---|---|
 |Docs|https://xrpl.org/|
 |Grants|https://xrplgrants.org/|
+|Demo Game|https://hazards-cookies-frontend.vercel.app/|
 
 ## Deploying the contract and verifying
 Deploy the contract with the following command:
