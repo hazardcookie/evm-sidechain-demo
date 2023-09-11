@@ -6,7 +6,7 @@
 |Faucet|https://faucet-frontend-mocha.vercel.app/|
 |Explorer|https://evm-sidechain.xrpl.org/|
 |RPC|https://rpc-evm-sidechain.xrpl.org/|
-|ChainId|1440001|
+|ChainId|1440002|
 
 |XRPL Resources|Link|
 |---|---|
