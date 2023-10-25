@@ -3,7 +3,7 @@
 
 |EVM Dev|Resource|
 |---|---|
-|Faucet|https://faucet-frontend-mocha.vercel.app/|
+|Faucet & Bridge|https://bridge.devnet.xrpl.org/|
 |Explorer|https://evm-sidechain.xrpl.org/|
 |RPC|https://rpc-evm-sidechain.xrpl.org/|
 |ChainId|1440002|
