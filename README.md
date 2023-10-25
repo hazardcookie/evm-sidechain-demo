@@ -12,6 +12,8 @@
 |---|---|
 |Docs|https://xrpl.org/|
 |Grants|https://xrplgrants.org/|
+|CookieSwap|https://hazardcookie.com|
+|CookieSwap (alt link)|https://hazardcookie.eth.limo|
 |Demo Game|https://hazards-cookies-frontend.vercel.app/|
 
 ## Deploying the contract and verifying
